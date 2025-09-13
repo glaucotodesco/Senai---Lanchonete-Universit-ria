@@ -1,4 +1,4 @@
-# Senai---Lanchonete-Universit-ria
+# Senai---Lanchonete-Universitária
 Disciplina Eng. Software 2025
 
 A **Lanchonete Universitária** deseja informatizar parte do seu atendimento. Atualmente, os pedidos são feitos em papel e o controle dos produtos é manual, o que gera erros e demora no processo.
